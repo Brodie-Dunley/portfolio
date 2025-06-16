@@ -7,6 +7,7 @@ Welcome! Please find below various personal and academic projections I have work
 - SQL Drone Share Database (https://github.com/Brodie-Dunley/Drone-Share)
 - SQL Data warehouse/Data Mart (https://github.com/Brodie-Dunley/SQL_Datawarehouse)
 - SQL Company Report (https://github.com/Brodie-Dunley/Company_Report)
+- SQL Procedures and Stored Functions Practicum (https://github.com/Brodie-Dunley/SQL_Stored_Functions_Practicum)
 - Python Data Projects (https://github.com/Brodie-Dunley/Python_Practice_Projects)
 - R Data Projects (https://github.com/Brodie-Dunley/R_Practice_Projects)
 
