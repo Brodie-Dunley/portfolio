@@ -3,6 +3,8 @@
 Welcome! Please find below various personal and academic projections I have worked on:
 
 **Data Related Projects**
+- Bellabeat Case Study (https://medium.com/@bdunley/bellabeat-case-study-8428b63ced1a)
+- Cyclist Case Study (https://medium.com/@bdunley/cyclist-case-study-cba8ffe23513)
 - SQL Stored Procedures and functions (https://github.com/Brodie-Dunley/Stored_Procedures_and_Functions_Project)
 - SQL Drone Share Database (https://github.com/Brodie-Dunley/Drone-Share)
 - SQL Data warehouse/Data Mart (https://github.com/Brodie-Dunley/SQL_Datawarehouse)
